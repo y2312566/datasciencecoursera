@@ -1,5 +1,5 @@
 # Reproducible Research
-Author: Aditya Vikram Dash <br />
+Author: Feng Liang <br />
 
 ## Projects 
 Project # | Markdown | R Markdown
